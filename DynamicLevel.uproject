@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "2ED57364-56E9-4175-9FDF-8D322BBE167C",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "DynamicLevel",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
